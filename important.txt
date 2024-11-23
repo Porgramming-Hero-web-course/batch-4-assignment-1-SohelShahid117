@@ -1,0 +1,7 @@
+**https://github.com/Apollo-Level2-Web-Dev/batch4-assignment-1
+1.tsc --init
+2.npm i -g tsc-init
+3.npm i -g ts-node-dev --save-dev
+4.npm i -g  ts-node-dev
+5.npm install -g typescript
+6.ts-node-dev --respawn --transpile-only server.ts
