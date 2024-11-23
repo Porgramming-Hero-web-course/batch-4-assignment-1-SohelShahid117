@@ -5,3 +5,4 @@
 4.npm i -g  ts-node-dev
 5.npm install -g typescript
 6.ts-node-dev --respawn --transpile-only server.ts
+7.next add one blog-lec.md file in every lecture which I learn from this lecture
